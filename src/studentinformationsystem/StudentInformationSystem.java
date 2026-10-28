@@ -27,7 +27,7 @@ public class StudentInformationSystem {
     System.out.println("Mark 1: " + mark1);
     System.out.println("Mark 2: " + mark2);
     System.out.println("Total Marks: " + total);
-    //determine the student results
+    //determine the student's results
     if (total >= 160) {
         System.out.println("Result: Excellent");
     } else if (total >= 100) {
