@@ -21,7 +21,7 @@ public class StudentInformationSystem {
     //calculate total marks
     int total = mark1 + mark2;
     //display student information and results
-    System.out.println("Student Information System");
+    System.out.println("Student Information System -Updated");
     System.out.println("Student Name: " + studentName);
     System.out.println("Student ID: " + studentID);
     System.out.println("Mark 1: " + mark1);
